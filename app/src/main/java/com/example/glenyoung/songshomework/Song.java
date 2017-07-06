@@ -25,11 +25,11 @@ public class Song {
         return artist;
     }
 
-    public int getRank() {
+    public Integer getRank() {
         return rank;
     }
 
-    public int getYear() {
+    public Integer getYear() {
         return year;
     }
 
